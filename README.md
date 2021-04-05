@@ -14,8 +14,8 @@ Gang of Four categorized the Design Pattern into three main categories based on 
 
 ## Creational design patterns
 There are five creational design patterns:
-**Singleton**: The singleton pattern ensures that only one instance of an object will exist at the application level.
-**Factory method**: A factory pattern is used to create objects without using the  class to be used.
-**Abstract factory**: Without the specification of their concrete classes, groups of related or dependent objects are instantiated by the abstract factory.
-**Prototype**: Specifies the type of prototype to create, and then creates copies of the prototype.
-**Builder**: Separates object construction from its representation.
+- **Singleton**: The singleton pattern ensures that only one instance of an object will exist at the application level.
+- **Factory method**: A factory pattern is used to create objects without using the  class to be used.
+- **Abstract factory**: Without the specification of their concrete classes, groups of related or dependent objects are instantiated by the abstract factory.
+- **Prototype**: Specifies the type of prototype to create, and then creates copies of the prototype.
+- **Builder**: Separates object construction from its representation.
